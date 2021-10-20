@@ -1,0 +1,6 @@
+normal = 'NORMAL'
+drusen = 'DRUSEN'
+dme = 'DME'
+cnv = 'CNV'
+batch_size = 128
+epochs = 15
